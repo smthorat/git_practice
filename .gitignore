@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+plots/*.png
+plots/*.pdf
